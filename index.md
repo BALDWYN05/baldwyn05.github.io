@@ -15,6 +15,7 @@ GPA: 3.59
 - B.S. Computer Science - Junior Standing
 - B.S. Software Engineering - Junior Standing
 - Minor Data Science
+
 ## Organizations
 
 ### The Butte Forge: Embedded Systems and AI Club — Montana Tech
