@@ -1,3 +1,8 @@
+---
+layout: default
+title: home
+---
+
 # Dylan Baldwin
 
 ## About Me
